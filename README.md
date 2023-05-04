@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and ceber securty
 - 🌱 I’m currently learning programming and engish, ceber securty
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me azamatovagavharoy@gmail.com
 
 <!---
 Gavharoy847606/Gavharoy847606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
