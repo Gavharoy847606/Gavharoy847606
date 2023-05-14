@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gavharoy847606
-- 👀 I’m interested in programming and ceber securty
-- 🌱 I’m currently learning programming and engish, ceber securty
+- 👀 I’m interested in programming and cybersecuriy
+- 🌱 I’m currently learning programming and engish, cyber security
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me azamatovagavharoy@gmail.com
 
