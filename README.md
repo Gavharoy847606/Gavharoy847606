@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gavharoy847606
-- 👀 I’m interested in programming and cyber securiy
+- 👀 I’m interested in programming and cyber security
 - 🌱 I’m currently learning programming and engish, cyber security
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me azamatovagavharoy@gmail.com
